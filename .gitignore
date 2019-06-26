@@ -1,0 +1,20 @@
+build
+bin
+.vscode
+.sass-cache
+.idea
+.gradle
+out
+*.iml
+# themes
+.classpath
+.project
+.settings
+.sass-cache
+
+# ignore
+node_modules/
+.deploy_git/
+public/
+*.log
+db.json

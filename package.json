@@ -1,0 +1,27 @@
+{
+  "name": "yingxu",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "desandro-classie": "^1.0.1",
+    "desandro-get-style-property": "^1.0.4",
+    "desandro-matches-selector": "^2.0.2",
+    "doc-ready": "^1.0.4",
+    "eventie": "^1.0.6",
+    "fizzy-ui-utils": "^2.0.7",
+    "flickity": "^2.2.0",
+    "get-size": "^2.0.3",
+    "imagesloaded": "^4.1.4",
+    "tap-listener": "^2.0.0",
+    "unidragger": "^2.3.0",
+    "unipointer": "^2.3.0",
+    "wolfy87-eventemitter": "^5.2.6"
+  }
+}
